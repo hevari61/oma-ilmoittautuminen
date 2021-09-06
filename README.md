@@ -8,6 +8,7 @@ Ei vielä ilmoittautumisia eikä virhe ilmoja, koska Mango vähän tökkii.
 Vaatii tuon rekisteröitymisen, joka vielä työnalla.
 componentit puuttuvat: react-router-dom, axios & bootstrap
 
+Tietokantaa saatu imuroitua
 
 
 
