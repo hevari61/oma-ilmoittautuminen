@@ -1,3 +1,13 @@
+Tarkoitus spa pohjalta etusivu
+
+Annetaan Sukunimi Etunimi
+Tulostaa Kauden parhaan tuloksen ja osallistumiskerrat.
+
+Ei vielä ilmoittautumisia eikä virhe ilmoja, koska Mango vähän tökkii.
+
+Vaatii tuon rekisteröitymisen, joka vielä työnalla.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
