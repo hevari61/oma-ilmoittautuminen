@@ -6,6 +6,9 @@ Tulostaa Kauden parhaan tuloksen ja osallistumiskerrat.
 Ei vielä ilmoittautumisia eikä virhe ilmoja, koska Mango vähän tökkii.
 
 Vaatii tuon rekisteröitymisen, joka vielä työnalla.
+componentit puuttuvat: react-router-dom, axios & bootstrap
+
+
 
 
 # Getting Started with Create React App
