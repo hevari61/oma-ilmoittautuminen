@@ -5,7 +5,8 @@ class Koti extends Component {
         return (
             <div>
                 <h2>Puulaaki 2021-2022</h2>
-                <p>Ilmoittaudu seuraavaan kisaan: 08.09.2021</p>
+                <p>Katso aiemmat tulokset</p>
+                
             </div>
         );
     }
